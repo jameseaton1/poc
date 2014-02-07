@@ -1,0 +1,10 @@
+source CM_Address.sql
+source CM_Contact_Points.sql
+source CM_Group.sql
+source CM_Name.sql
+source CM_Person.sql
+source CM_Person_Identifier.sql
+source CM_Role.sql
+source CM_Test_Result.sql
+source CM_User.sql
+source CM_User_Group.sql
